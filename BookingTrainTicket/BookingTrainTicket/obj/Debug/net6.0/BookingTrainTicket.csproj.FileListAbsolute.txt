@@ -1,0 +1,15 @@
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\obj\Debug\net6.0\BookingTrainTicket.csproj.AssemblyReference.cache
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\obj\Debug\net6.0\BookingTrainTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\obj\Debug\net6.0\BookingTrainTicket.AssemblyInfoInputs.cache
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\obj\Debug\net6.0\BookingTrainTicket.AssemblyInfo.cs
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\obj\Debug\net6.0\BookingTrainTicket.csproj.CoreCompileInputs.cache
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\bin\Debug\net6.0\BookingTrainTicket.exe
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\bin\Debug\net6.0\BookingTrainTicket.deps.json
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\bin\Debug\net6.0\BookingTrainTicket.runtimeconfig.json
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\bin\Debug\net6.0\BookingTrainTicket.dll
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\bin\Debug\net6.0\ref\BookingTrainTicket.dll
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\bin\Debug\net6.0\BookingTrainTicket.pdb
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\obj\Debug\net6.0\BookingTrainTicket.dll
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\obj\Debug\net6.0\ref\BookingTrainTicket.dll
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\obj\Debug\net6.0\BookingTrainTicket.pdb
+D:\AwaytoDesignPatterns\StrategicPattern\BookingTrainTicket\BookingTrainTicket\obj\Debug\net6.0\BookingTrainTicket.genruntimeconfig.cache
